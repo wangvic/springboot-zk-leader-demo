@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringbootZkLeaderDemoApplication2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="dev.vicwang.springbootzkleaderdemo.SpringbootZkLeaderDemoApplication" />
+    <module name="springboot-zk-leader-demo.main" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=8081 -Dzookeeper.id=2" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="dev.vicwang.springbootzkleaderdemo.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
